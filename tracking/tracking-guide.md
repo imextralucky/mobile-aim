@@ -33,7 +33,7 @@ So if you find yourself jittering, just remember to focus on speed matching the 
 
 The first part of correcting is the flick back onto the target. When we need to acquire a target, or in this case reacquire, we do a fast motion (a flick) onto or near the target. We do the same in tracking as well. However, you have to understand that we aren't flicking like we would in static switching.
 
-![example_flicking-far](/tracking/example_flicking-far.PNG)
+![example_flicking-far](/tracking/example_flicking-far.PNG | width=100)
 
 In static switching, the targets are typically far apart and requires you to flick a large distance before you can land onto them. For our correction, instead imagine static switching but the targets are very close together. If we flick too fast (apply too much pressure), we'll overshoot the target. Since the targets are very close together, we only need to apply a little bit of pressure. It's still a fast motion because the targets are close together.
 

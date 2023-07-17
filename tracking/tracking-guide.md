@@ -37,6 +37,8 @@ The first part of correcting is the flick back onto the target. When we need to 
 
 In static switching, the targets are typically far apart and requires you to flick a large distance before you can land onto them. For our correction, instead imagine static switching but the targets are very close together. If we flick too fast (apply too much pressure), we'll overshoot the target. Since the targets are very close together, we only need to apply a little bit of pressure. It's still a fast motion because the targets are close together.
 
+![example_flicking-far](/tracking/example_flicking-close.PNG)
+
 So for our correction, **we need to flick with only a little bit of pressure**. The closer your crosshair is to the target, the less pressure. We do this because when you fall off target, you're actually very close to it, and all you need to do is a small movement to get back onto it. **The faster you are at doing this, the less distance you'll cover**, meaning less pressure in our flick to correct.
 
 A beginner will see themselves fall off target, and try to reacquire it fast, but instead of paying attention to the distance, they will just flick with a lot of pressure to be *"fast"*, causing them to overshoot. When they're told to *"be smooth"*, they instead don't flick at all, which causes their correction to be too slow.
